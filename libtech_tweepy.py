@@ -1,4 +1,4 @@
-
+#!/usr/bin python
 """A quick script to grab @liberationtech's last 10 tweets."""
 
 import tweepy
