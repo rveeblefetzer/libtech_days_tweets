@@ -2,7 +2,7 @@
 A script to pull the last 10 tweets by @Liberationtech
 
 ## To run:
-Add API and OAuth information:
+Add API and access information:
 
 ```python
 consumer_key = "" # Add your Twitter API key between the quote marks
